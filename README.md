@@ -16,8 +16,7 @@ Our project aims to provide a decentralized solution for [specific problem or us
 Features
 Smart Contracts: Developed using Solidity, ensuring secure and efficient transactions.
 Backend Services: Implemented in Rust for high performance and safety.
-Decentralized: Fully on-chain solution, enhancing transparency and trust.
-User-Friendly Interface: Easy to interact with the blockchain through our intuitive UI.
+
 Installation
 Prerequisites
 Node.js
