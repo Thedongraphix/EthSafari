@@ -1,6 +1,7 @@
 EthSafari Hackathon Project
 Overview
 Welcome to our EthSafari Hackathon project! This project leverages the power of blockchain technology, combining Solidity and Rust to create a robust, decentralized application.
+Project was built based on three themes ours was Education 
 
 Table of Contents
 Project Description
